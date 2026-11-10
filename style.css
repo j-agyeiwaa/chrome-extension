@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 400px;
+}
+
+#input-btn, #delete-btn {
+  background: #5F9341;
+  font-weight: bold;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 5px 10px;
+  margin-top: 5px;
+}
+
+#clear-btn, #tab-btn {
+  background: white;
+  font-weight: bold;
+  color: #5F9341;
+  border: 1px solid #5F9341;
+  border-radius: 10px;
+  padding: 5px 10px;
+  margin-top: 5px;
+}
+
+input {
+  width: 100%;
+  background: white;
+  border: 1px solid #5F9341;
+  border-radius: 5px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+ul {
+  margin-top: 20px;
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  margin-top: 5px;
+}
+
+a {
+  color: #5F9341;
+}
