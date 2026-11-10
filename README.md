@@ -1,0 +1,1 @@
+A chrome extension that allows a user to save links when browsing and visit them later.
